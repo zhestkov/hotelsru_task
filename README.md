@@ -5,3 +5,5 @@ You can: <br />
 2. Comment posts <br />
 3. Comment the existing comments (nesting) <br />
 4. Delete existing comments/posts including whole subtree of comments. <br />
+<br />
+<bold> Note </bold>
