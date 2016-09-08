@@ -1,0 +1,79 @@
+h1 {
+    text-align: center;
+}
+.commentButton {
+    color: #014C8C;
+}
+.commentButton:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.deleteButton {
+    color: #014C8C;
+}
+.deleteButton:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#parentId {
+    display: none;
+}
+
+#comments {
+    margin: 20px 20px;
+    padding: 10px;
+}
+
+#alert {
+    display: none;
+}
+.comment {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+    width: 500px;
+    
+}
+.container {
+    
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 30px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
