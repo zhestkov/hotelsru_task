@@ -6,4 +6,5 @@ You can: <br />
 3. Comment the existing comments (nesting) <br />
 4. Delete existing comments/posts including whole subtree of comments. <br />
 <br />
-<strong> Note </strong>
+<strong> Note: </strong> The database is stored at https://www.ecowebhosting.co.uk
+
