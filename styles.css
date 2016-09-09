@@ -2,19 +2,32 @@ h1 {
     text-align: center;
 }
 .commentButton {
-    color: #014C8C;
+    color: #008CBA;
+    -webkit-color: #008CBA;
+    -moz-color: #008CBA;
 }
 .commentButton:hover {
     text-decoration: underline;
     cursor: pointer;
+    -webkit-color: #008CBA;
+    -webkit-text-decoration: underline;
+    -webkit-cursor: pointer;
+    -moz-text-decoration: underline;
+    -moz-cursor: pointer;
+    
 }
 
 .deleteButton {
-    color: #014C8C;
+    color: #008CBA;
+    -webkit-color: #008CBA;
 }
 .deleteButton:hover {
     text-decoration: underline;
     cursor: pointer;
+    -webkit-text-decoration: underline;
+    -webkit-cursor: pointer;
+    -moz-text-decoration: underline;
+    -moz-cursor: pointer;
 }
 
 #parentId {
